@@ -1,0 +1,188 @@
+# ChatVoice Local blocked words - Twitch / Kick starter list
+#
+# Twitch and Kick do not publish an official banned-word list, so this is a starter list built from the categories
+# their rules and moderators act on: slurs, hate symbols, self-harm and violence, sexual content, harassment,
+# doxxing and chat spam.
+#
+# BASE WORDS ONLY. ChatVoice Local already catches capitals, stretched letters, spaced or dotted letters,
+# number/symbol swaps, look-alike letters, censoring (f**k) and endings (s, ed, er, ing ...), so variants are not listed.
+#
+# Short words can catch innocent ones. If something harmless gets blocked, add it as a line like:  -word
+# (an allowed word) or write the blocked one as:  =word  (exact match only).
+# Delete any line you do not want. Words in this file are NEVER read aloud; to hear a different word instead,
+# use replacements.txt (and do not list the same word in both: block wins).
+
+
+# ---- Racial / ethnic slurs
+nigger
+nigga
+niglet
+coon
+darkie
+porch monkey
+jungle bunny
+spic
+wetback
+beaner
+chink
+gook
+slant eye
+chingchong
+paki
+raghead
+towelhead
+sandnigger
+camel jockey
+kike
+redskin
+squaw
+honkey
+zipperhead
+
+# ---- Anti-LGBTQ slurs
+faggot
+fag
+dyke
+tranny
+shemale
+troon
+groomer
+
+# ---- Ableist slurs
+retard
+retarded
+spastic
+mongoloid
+
+# ---- Hate symbols / extremist phrases
+heil hitler
+sieg heil
+white power
+white pride
+14 words
+1488
+gas the jews
+race war
+holocaust hoax
+
+# ---- Self-harm and violence toward others
+kys
+kill yourself
+kill your self
+go kill yourself
+hang yourself
+neck yourself
+unalive yourself
+slit your wrists
+drink bleach
+i hope you die
+
+# ---- Sexual / explicit
+rape
+raped
+rapist
+molest
+pedo
+pedophile
+paedo
+child porn
+loli
+cum
+cumshot
+blowjob
+handjob
+dildo
+cock
+dick
+pussy
+cunt
+tits
+boobs
+boobies
+penis
+vagina
+anal
+orgasm
+*porn
+nude
+nudes
+onlyfans
+hentai
+masturbate
+jerk off
+
+# ---- Harassment terms Twitch and Kick moderators commonly act on
+incel
+whore
+slut
+thot
+bitch
+bastard
+
+# ---- Doxxing / threats
+doxx
+dox
+swatting
+
+# ---- Spam and scam bots
+buy followers
+buy viewers
+bigfollows
+cheap viewers
+streamboo
+dogehype
+free followers
+best viewers
+promo code
+cheap followers
+primes and viewers
+
+# ---- Allowed words: real words this filter would otherwise catch. Add your own below, one per line, as  -word
+# (no need to delete anything: an allowed word is simply never blocked)
+-annal
+-annals
+-beanery
+-beaneries
+-cocker
+-cockers
+-cocky
+-cockies
+-dicker
+-dickers
+-dicky
+-doxy
+-doxies
+-epispastic
+-evaginate
+-evaginated
+-evaginates
+-evaginating
+-invaginate
+-invaginated
+-invaginates
+-invaginating
+-lollies
+-retardant
+-retardants
+-retarder
+-retarders
+-rapped
+-rapper
+-rappers
+-rapping
+-rappee
+-rappees
+-snigger
+-sniggers
+-sniggered
+-sniggering
+-sniggerer
+-sniggerers
+-sniggeringly
+-spasticity
+-spiced
+-spices
+-spicing
+-spicy
+-therapist
+-therapists

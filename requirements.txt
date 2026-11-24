@@ -1,0 +1,9 @@
+kokoro>=0.9.4
+misaki[ja,zh]>=0.9.4
+soundfile
+numpy
+sounddevice
+websockets>=12
+keyring
+huggingface_hub
+Pillow>=10

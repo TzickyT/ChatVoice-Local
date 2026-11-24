@@ -1,0 +1,138 @@
+{
+  "format": "ChatVoice Local backup",
+  "version": 3,
+  "settings": {
+    "word_substitutions": [
+      {
+        "word": "fuck",
+        "replacement": "freak"
+      },
+      {
+        "word": "fucking",
+        "replacement": "freaking"
+      },
+      {
+        "word": "fucked",
+        "replacement": "freaked"
+      },
+      {
+        "word": "fucker",
+        "replacement": "jerk"
+      },
+      {
+        "word": "motherfucker",
+        "replacement": "jerk"
+      },
+      {
+        "word": "shit",
+        "replacement": "shoot"
+      },
+      {
+        "word": "shitty",
+        "replacement": "crummy"
+      },
+      {
+        "word": "bullshit",
+        "replacement": "baloney"
+      },
+      {
+        "word": "asshole",
+        "replacement": "jerk"
+      },
+      {
+        "word": "ass",
+        "replacement": "butt"
+      },
+      {
+        "word": "dumbass",
+        "replacement": "dummy"
+      },
+      {
+        "word": "jackass",
+        "replacement": "goofball"
+      },
+      {
+        "word": "damn",
+        "replacement": "darn"
+      },
+      {
+        "word": "goddamn",
+        "replacement": "dang"
+      },
+      {
+        "word": "hell",
+        "replacement": "heck"
+      },
+      {
+        "word": "crap",
+        "replacement": "crud"
+      },
+      {
+        "word": "piss",
+        "replacement": "pee"
+      },
+      {
+        "word": "pissed",
+        "replacement": "annoyed"
+      },
+      {
+        "word": "wtf",
+        "replacement": "what the heck"
+      },
+      {
+        "word": "stfu",
+        "replacement": "be quiet"
+      },
+      {
+        "word": "omfg",
+        "replacement": "oh my gosh"
+      },
+      {
+        "word": "lmfao",
+        "replacement": "ha ha"
+      },
+      {
+        "word": "kek",
+        "replacement": "ha"
+      },
+      {
+        "word": "lul",
+        "replacement": "ha"
+      },
+      {
+        "word": "pog",
+        "replacement": "poggers"
+      },
+      {
+        "word": "pogchamp",
+        "replacement": "pog champ"
+      },
+      {
+        "word": "sadge",
+        "replacement": "sad"
+      },
+      {
+        "word": "copium",
+        "replacement": "coping"
+      },
+      {
+        "word": "hopium",
+        "replacement": "hoping"
+      },
+      {
+        "word": "kappa",
+        "replacement": ""
+      },
+      {
+        "word": "lulw",
+        "replacement": ""
+      },
+      {
+        "word": "omegalul",
+        "replacement": ""
+      }
+    ]
+  },
+  "blocked_users": [],
+  "voice_presets": {}
+}

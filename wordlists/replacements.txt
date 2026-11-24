@@ -1,0 +1,42 @@
+# ChatVoice Local replacements - words read aloud as something else.
+# One per line:   word = what is spoken instead
+# Leave the right side empty to just drop the word from speech.   Lines starting with # are comments.
+# Matches whole words/phrases, ignoring capitals. Disguised spellings (f*ck, fuuuck) are NOT caught here,
+# so keep the strong stuff in blocked_words.txt and use this for milder words you still want read.
+# Edit freely, then run:  python add_replacements_to_backup.py
+#
+# ---- Mild swearing -> softer
+fuck = freak
+fucking = freaking
+fucked = freaked
+fucker = jerk
+motherfucker = jerk
+shit = shoot
+shitty = crummy
+bullshit = baloney
+asshole = jerk
+ass = butt
+dumbass = dummy
+jackass = goofball
+damn = darn
+goddamn = dang
+hell = heck
+crap = crud
+piss = pee
+pissed = annoyed
+wtf = what the heck
+stfu = be quiet
+omfg = oh my gosh
+lmfao = ha ha
+# ---- Chat slang -> spoken
+kek = ha
+lul = ha
+pog = poggers
+pogchamp = pog champ
+sadge = sad
+copium = coping
+hopium = hoping
+# ---- Emote spam / noise -> removed
+kappa =
+lulw =
+omegalul =
